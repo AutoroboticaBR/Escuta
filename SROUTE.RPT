@@ -1,0 +1,40 @@
+Starting Auto-Router (NRM) Mar  1 1999 Edition
+Board: BACKUP1
+Elapsed Routing Time 5:31:16
+Defining Testpoint prefix as TP
+No testpoint symbols found
+Design database is in U.S.Inches
+Lev TOP has spacing 0.3048 mm but is not enabled for new routing
+Lev BOTTOM has spacing 0.3048 mm and is enabled for Vertical routing
+Total of 28 Layers
+	2 Etch Layers
+	1 Enabled Layers
+Warning:  Track width 0.8001 is not one of the standard TrackWidths in sroute.ini
+Track Widths
+	0.8001 mm: routed= 0.000", unrouted=11.941"
+Via VIA1 has radius + spacing of 1.0668 mm
+QuadReport:  0 Objects in tree, 85 Quads defined, Max. Depth = 3
+Warning: 19.4 "N00312" on Layer TOP at [1447.3746,775.9327]
+	 conflicts with Copper/2D Line obstacle -1414, Layer TOP, Width 0.0254, attached to K1, No Net
+Warning: 19.2 "N00100" on Layer TOP at [1435.3747,788.9329]
+	 conflicts with Copper/2D Line obstacle -1414, Layer TOP, Width 0.0254, attached to K1, No Net
+Warning: 19.1 "N00078" on Layer TOP at [1447.3746,788.9329]
+	 conflicts with Copper/2D Line obstacle -1414, Layer TOP, Width 0.0254, attached to K1, No Net
+Warning: K1.7 "N00312" on Layer TOP at [1437.375,773.4321]
+	 conflicts with Copper/2D Line obstacle -1414, Layer TOP, Width 0.0254, attached to K1, No Net
+Warning: K1.6 "N00371" on Layer TOP at [1437.375,778.4317]
+	 conflicts with Copper/2D Line obstacle -1414, Layer TOP, Width 0.0254, attached to K1, No Net
+Warning: K1.5 "N00348" on Layer TOP at [1445.3747,773.4321]
+	 conflicts with Copper/2D Line obstacle -1414, Layer TOP, Width 0.0254, attached to K1, No Net
+Warning: K1.4 "N00354" on Layer TOP at [1445.3747,783.9316]
+	 conflicts with Copper/2D Line obstacle -1414, Layer TOP, Width 0.0254, attached to K1, No Net
+Warning: K1.3 "N00359" on Layer TOP at [1445.3747,778.4317]
+	 conflicts with Copper/2D Line obstacle -1414, Layer TOP, Width 0.0254, attached to K1, No Net
+Warning: K1.2 "N00100" on Layer TOP at [1437.375,791.4314]
+	 conflicts with Copper/2D Line obstacle -1414, Layer TOP, Width 0.0254, attached to K1, No Net
+Warning: K1.1 "N00078" on Layer TOP at [1445.3747,791.4314]
+	 conflicts with Copper/2D Line obstacle -1414, Layer TOP, Width 0.0254, attached to K1, No Net
+Warning: Q1.2 "N00025" on Layer TOP at [1432.3759,779.8922]
+	 conflicts with Copper/2D Line obstacle -1315, Layer TOP, Width 0.0254, attached to 19, No Net
+Warning: Q1.2 "N00025" on Layer TOP at [1432.3759,779.8922]
+	 conflicts with Copper/2D Line obstacle -1315, Layer TOP, Width 0.0254, attached to 19, No Net

@@ -1,0 +1,9 @@
+AutoECO Report
+FILE-A: C:\MEUS DOCUMENTOS\PROJETOS\ESCUTA\ECUTA.MAX
+FILE-B: C:\MEUS DOCUMENTOS\PROJETOS\ESCUTA\ECUTA.MNL
+If "*EOF*" immediately follows, no changes were made
+Cannot load a metric netlist on top of an english board or template.
+Please convert.
+*EOF*
+Unable to complete ECO due to errors
+1 error found

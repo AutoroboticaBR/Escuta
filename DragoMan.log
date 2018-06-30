@@ -1,0 +1,6 @@
+!!!CRASH Hook.dll : app=CAPTURE.EXE, msg=117, wParam=914, lParam=5, lpView=83593000
+  lpView:  i_app=1, msg=117, class=OrCaptureFrame,  source=Create a new simulation profile., target=Criar uma perfil de simulação nova.
+  lpView:  msgstr= 
+!!!CRASH Hook.dll : app=CAPTURE.EXE, msg=117, wParam=684, lParam=5, lpView=83593000
+  lpView:  i_app=1, msg=117, class=OrCaptureFrame,  source=Place a part., target=Colocar uma parte.
+  lpView:  msgstr= 

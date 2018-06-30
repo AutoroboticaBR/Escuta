@@ -1,0 +1,56 @@
+AutoECO Report
+FILE-A: C:\MEUS DOCUMENTOS\PROJETOS\ESCUTA\ESCUTA.MAX
+FILE-B: C:\MEUS DOCUMENTOS\PROJETOS\ESCUTA\ESCUTA.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding footprint CON2
+Found footprint AX/.325X.100/.031 from PRT file for original FP RESISTOR, comp R1
+Adding footprint BC
+Adding footprint DIODE
+Adding footprint CON3
+Adding footprint CAP
+Found footprint RELAY 1 from PRT file for original FP RALAY 1, comp K1
+Adding package CON2
+Adding package RESISTOR
+Adding package PNP_CBE
+Adding package NPN_CBE
+Adding package DIODE
+Adding package CON3
+Adding package CAP_NP
+Adding package RELAY_DPDT
+Adding component J3
+Adding component J4
+Adding component R1
+Adding component R4
+Adding component R2
+Adding component R3
+Adding component R5
+Adding component R6
+Adding component Q1
+Adding component Q2
+Adding component D1
+Adding component J5
+Adding component J1
+Adding component J2
+Adding component C2
+Adding component C3
+Adding component C1
+Adding component K1
+Adding net N00677
+Adding net N00671
+Adding net N00668
+Adding net N00359
+Adding net N00100
+Adding net N00348
+Adding net N00114
+Adding net N00312
+Adding net N00019
+Adding net N00111
+Adding net N00078
+Adding net N00025
+Adding net N00371
+Adding net N00031
+Adding net N00354
+Adding net N00037
+Deleting net DEFAULT
+*EOF*
+No errors found
